@@ -1,0 +1,2 @@
+# hasPropty
+hasPropty
